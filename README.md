@@ -4,7 +4,7 @@ This repo will hold a bunch of challenges for me to complete.
 
 It will be structured as follows:
 - Each challenge will have a branch.
-- Each branch name will follow this format: "LANGUAGE/CHALLENGE" (ie. "cs/hours-to-seconds", "js/do-a-backflip")
+- Each branch name will follow this format: "LANGUAGE/CHALLENGE" (ie. "cs/hoursToSeconds", "js/doABackflip")
 
 ## Challenges
 
