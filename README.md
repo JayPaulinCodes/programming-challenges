@@ -20,3 +20,9 @@ It will be structured as follows:
 |        	| Find the Smallest and Biggest Numbers          	| [edabit](https://edabit.com/challenge/kMWmiNJM4szSv7dLd) 	|
 |        	| Hamming Distance                               	| [edabit](https://edabit.com/challenge/K49LXsoMmS6tXxP7R) 	|
 |        	| H4ck3r Sp34k                                   	| [edabit](https://edabit.com/challenge/7nzfry4P3WrrL7t38) 	|
+|        	| Array of Multiples                             	| [edabit](https://edabit.com/challenge/2QvnWexKoLfcJkSsc) 	|
+|        	| Find the Bomb                                  	| [edabit](https://edabit.com/challenge/JYEufqRvkusjr5R58) 	|
+|        	| Fruit Smoothie                                 	| [edabit](https://edabit.com/challenge/rYKtzcuCQ9FQ9t9pH) 	|
+|        	| 2048 Tiles Slide                               	| [edabit](https://edabit.com/challenge/SjHcvrzHoBGyyotdh) 	|
+|        	| Block the Square in Tic Tac Toe                	| [edabit](https://edabit.com/challenge/hhprbY7GaHPZM7quc) 	|
+|        	| Algorithms: Binary Search                      	| [edabit](https://edabit.com/challenge/zHXnh6Eoej7NrHvFu) 	|
