@@ -1,5 +1,5 @@
 function mostExpensiveItem(obj) {
-	
+    return Object.entries(obj).sort((a, b) => b[1] - a[1])[0][0];
 }
 
 
@@ -19,6 +19,6 @@ const stolenItems3 = {
     stereo: 50,
 }
 
-console.log(mostExpensiveItem(stolenItems1)); // Expected: "piano"      Result: 
-console.log(mostExpensiveItem(stolenItems2)); // Expected: "tv"      Result: 
-console.log(mostExpensiveItem(stolenItems3)); // Expected: "stereo"      Result: 
+console.log(mostExpensiveItem(stolenItems1)); // Expected: "piano"      Result: "piano"
+console.log(mostExpensiveItem(stolenItems2)); // Expected: "tv"      Result: "tv"
+console.log(mostExpensiveItem(stolenItems3)); // Expected: "stereo"      Result: "stereo"
