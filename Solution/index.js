@@ -1,0 +1,3 @@
+function calculateLosses(obj) {
+	
+}
