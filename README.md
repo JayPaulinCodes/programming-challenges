@@ -1,19 +1,23 @@
-# {{CHALLENGE_NAME}}
+# Burglary Series (04): Add its Name
 
-Branch: `{{BRANCH_NAME}}`<br>
-Challenge: `{{CHALLENGE_NAME}}`<br>
-Source: [{{SOURCE_NAME}}]({{SOURCE_LINK}})<br>
+Branch: `js/burglarySeries03`<br>
+Challenge: `Burglary Series (04): Add its Name`<br>
+Source: [edabit](https://edabit.com/challenge/9KEKJG5PZTFmG3Zau)<br>
 
 ## Description
 
-{{CHALLENGE_DESCRIPTION}}
+Given three arguments ⁠— an object obj of the stolen items, the pet's name and a value ⁠— return an object with that name and value in it (as key-value pairs).
 
 ## Example
 
 ```
-{{CHALLENGE_EXAMPLE}}
+addName({}, "Brutus", 300) ➞ { Brutus: 300 }
+
+addName({ piano: 500 }, "Brutus", 400) ➞ { piano: 500, Brutus: 400 }
+
+addName({ piano: 500, stereo: 300 }, "Caligula", 440) ➞ { piano: 500, stereo: 300, Caligula: 440 }
 ```
 
 ## Notes
 
-{{CHALLENGE_NOTES}}
+The value argument will be a number.
