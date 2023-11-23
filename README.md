@@ -8,6 +8,17 @@ It will be structured as follows:
 
 ## Challenges
 
+### JavaScript Challenges
+| Branch 	| Description                  	| Source                                                   	|
+|--------	|------------------------------	|----------------------------------------------------------	|
+|        	| Return the Sum of Two Numbers	| [edabit](https://edabit.com/challenge/3LpBLgNRyaHMvNb4j) 	|
+|        	| Convert Minutes into Seconds	| [edabit](https://edabit.com/challenge/8q54MKnRrm89pSLmW) 	|
+|        	| Area of a Triangle	        | [edabit](https://edabit.com/challenge/3CaszbdZYGN4otQD8) 	|
+|        	| Convert Age to Days	        | [edabit](https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw) 	|
+|        	| Convert Hours into Seconds	| [edabit](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS) 	|
+|        	| How Much is True?	            | [edabit](https://edabit.com/challenge/GLbuMfTtDWwDv2F73) 	|
+|        	| Perimeters with a Catch	    | [edabit](https://edabit.com/challenge/WEvqZTFcHeYzFn74c) 	|
+
 ### C# Challenges
 | Branch 	| Description                                    	| Source                                                   	|
 |--------	|------------------------------------------------	|----------------------------------------------------------	|
