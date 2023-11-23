@@ -1,0 +1,8 @@
+npm run start
+
+> start
+> node index.js
+
+100
+20000
+Lucky you!
