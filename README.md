@@ -16,29 +16,29 @@ It will be structured as follows:
 |        	| How Much is True?	                                | [edabit](https://edabit.com/challenge/GLbuMfTtDWwDv2F73) 	|
 |        	| Perimeters with a Catch	                        | [edabit](https://edabit.com/challenge/WEvqZTFcHeYzFn74c) 	|
 |        	| Find Number of Digits in Number	                | [edabit](https://edabit.com/challenge/yFJzLfYghz7ZtsyAN) 	|
-|        	| Burglary Series (01): Calculate Total Losses	    | [edabit](https://edabit.com/challenge/pLNavsePxJ87t9Nak) 	|
-|        	| Burglary Series (02): Most Valuable Item	        | [edabit](https://edabit.com/challenge/yMEs8bXPyZenPEYLM) 	|
-|        	| Burglary Series (03): Is It Gone?         	    | [edabit](https://edabit.com/challenge/FBj5P49wwFzj2Jnfr) 	|
-|        	| Burglary Series (04): Add its Name	            | [edabit](https://edabit.com/challenge/9KEKJG5PZTFmG3Zau) 	|
-|        	| Burglary Series (05): Third Most Expensive	    | [edabit](https://edabit.com/challenge/3hDDMWvmMQ6pFqqmg) 	|
-|        	| Burglary Series (06): Convert to Number	        | [edabit](https://edabit.com/challenge/ttuBGpGu7w4Ec3spT) 	|
-|        	| Burglary Series (07): Make a Copy	                | [edabit](https://edabit.com/challenge/cEbhy9eWeNudEuxut) 	|
-|        	| Burglary Series (08): Remove an Entry	            | [edabit](https://edabit.com/challenge/y4K6Mi7XfaauvoT3u) 	|
-|        	| Burglary Series (09): Filter Values	            | [edabit](https://edabit.com/challenge/Cve45maGdj5XtQXgo) 	|
-|        	| Burglary Series (10): Calculate Difference	    | [edabit](https://edabit.com/challenge/8s2jy9hR2TAeQinKD) 	|
-|        	| Burglary Series (11): Say What    	            | [edabit](https://edabit.com/challenge/7hrjegxToTSF4zAoM) 	|
-|        	| Burglary Series (12): Get Vodka Bottle	        | [edabit](https://edabit.com/challenge/paMpZoEJ6gr4feMS3) 	|
-|        	| Burglary Series (13): Sort That List	            | [edabit](https://edabit.com/challenge/qrb9Xaapq9b8nstLe) 	|
-|        	| Burglary Series (14): Adjectives Total	        | [edabit](https://edabit.com/challenge/NkMTBCxMkt4meHpa4) 	|
-|        	| Burglary Series (15): Number of Occurrences	    | [edabit](https://edabit.com/challenge/Mwryyhy2e8Gk9yrCh) 	|
-|        	| Burglary Series (16): Nested objects      	    | [edabit](https://edabit.com/challenge/SvodRRbyv7g3LxZsK) 	|
-|        	| Burglary Series (17): Who is the Winner?	        | [edabit](https://edabit.com/challenge/Zou4ggX2D9w39wJrG) 	|
-|        	| Burglary Series (18): Detailed List	            | [edabit](https://edabit.com/challenge/u8SiTaBmMKCYAfK3J) 	|
-|        	| Burglary Series (19): Prevent Changes	            | [edabit](https://edabit.com/challenge/eQs2yCBnzRZ3dnRKd) 	|
-|        	| Burglary Series (20): Sign Your Name	            | [edabit](https://edabit.com/challenge/xRcgQHtfLbxomYb33) 	|
-|        	| Burglary Series (21): Sign Your Name Again	    | [edabit](https://edabit.com/challenge/H5rAoCQBjyB4woTPY) 	|
-|        	| Burglary Series (22): Sign All	                | [edabit](https://edabit.com/challenge/xrsiqZKrMoT2skt9i) 	|
-|        	| Burglary Series (23): Find and Remove	            | [edabit](https://edabit.com/challenge/MregZPPJWSxhXtrNB) 	|
+| `js/burglarySeries01`       	| Burglary Series (01): Calculate Total Losses	    | [edabit](https://edabit.com/challenge/pLNavsePxJ87t9Nak) 	|
+| `js/burglarySeries02`       	| Burglary Series (02): Most Valuable Item	        | [edabit](https://edabit.com/challenge/yMEs8bXPyZenPEYLM) 	|
+| `js/burglarySeries03`       	| Burglary Series (03): Is It Gone?         	    | [edabit](https://edabit.com/challenge/FBj5P49wwFzj2Jnfr) 	|
+| `js/burglarySeries04`       	| Burglary Series (04): Add its Name	            | [edabit](https://edabit.com/challenge/9KEKJG5PZTFmG3Zau) 	|
+| `js/burglarySeries05`       	| Burglary Series (05): Third Most Expensive	    | [edabit](https://edabit.com/challenge/3hDDMWvmMQ6pFqqmg) 	|
+| `js/burglarySeries06`       	| Burglary Series (06): Convert to Number	        | [edabit](https://edabit.com/challenge/ttuBGpGu7w4Ec3spT) 	|
+| `js/burglarySeries07`       	| Burglary Series (07): Make a Copy	                | [edabit](https://edabit.com/challenge/cEbhy9eWeNudEuxut) 	|
+| `js/burglarySeries08`       	| Burglary Series (08): Remove an Entry	            | [edabit](https://edabit.com/challenge/y4K6Mi7XfaauvoT3u) 	|
+| `js/burglarySeries09`       	| Burglary Series (09): Filter Values	            | [edabit](https://edabit.com/challenge/Cve45maGdj5XtQXgo) 	|
+| `js/burglarySeries10`       	| Burglary Series (10): Calculate Difference	    | [edabit](https://edabit.com/challenge/8s2jy9hR2TAeQinKD) 	|
+| `js/burglarySeries11`       	| Burglary Series (11): Say What    	            | [edabit](https://edabit.com/challenge/7hrjegxToTSF4zAoM) 	|
+| `js/burglarySeries12`       	| Burglary Series (12): Get Vodka Bottle	        | [edabit](https://edabit.com/challenge/paMpZoEJ6gr4feMS3) 	|
+| `js/burglarySeries13`       	| Burglary Series (13): Sort That List	            | [edabit](https://edabit.com/challenge/qrb9Xaapq9b8nstLe) 	|
+| `js/burglarySeries14`       	| Burglary Series (14): Adjectives Total	        | [edabit](https://edabit.com/challenge/NkMTBCxMkt4meHpa4) 	|
+| `js/burglarySeries15`       	| Burglary Series (15): Number of Occurrences	    | [edabit](https://edabit.com/challenge/Mwryyhy2e8Gk9yrCh) 	|
+| `js/burglarySeries16`       	| Burglary Series (16): Nested objects      	    | [edabit](https://edabit.com/challenge/SvodRRbyv7g3LxZsK) 	|
+| `js/burglarySeries17`       	| Burglary Series (17): Who is the Winner?	        | [edabit](https://edabit.com/challenge/Zou4ggX2D9w39wJrG) 	|
+| `js/burglarySeries18`       	| Burglary Series (18): Detailed List	            | [edabit](https://edabit.com/challenge/u8SiTaBmMKCYAfK3J) 	|
+| `js/burglarySeries19`       	| Burglary Series (19): Prevent Changes	            | [edabit](https://edabit.com/challenge/eQs2yCBnzRZ3dnRKd) 	|
+| `js/burglarySeries20`       	| Burglary Series (20): Sign Your Name	            | [edabit](https://edabit.com/challenge/xRcgQHtfLbxomYb33) 	|
+| `js/burglarySeries21`       	| Burglary Series (21): Sign Your Name Again	    | [edabit](https://edabit.com/challenge/H5rAoCQBjyB4woTPY) 	|
+| `js/burglarySeries22`       	| Burglary Series (22): Sign All	                | [edabit](https://edabit.com/challenge/xrsiqZKrMoT2skt9i) 	|
+| `js/burglarySeries23`       	| Burglary Series (23): Find and Remove	            | [edabit](https://edabit.com/challenge/MregZPPJWSxhXtrNB) 	|
 
 ### C# Challenges
 | Branch 	| Description                                    	| Source                                                   	|
