@@ -1,19 +1,23 @@
-# {{CHALLENGE_NAME}}
+# Burglary Series (06): Convert to Number
 
-Branch: `{{BRANCH_NAME}}`<br>
-Challenge: `{{CHALLENGE_NAME}}`<br>
-Source: [{{SOURCE_NAME}}]({{SOURCE_LINK}})<br>
+Branch: `js/burglarySeries06`<br>
+Challenge: `Burglary Series (06): Convert to Number`<br>
+Source: [edabit](https://edabit.com/challenge/ttuBGpGu7w4Ec3spT)<br>
 
 ## Description
 
-{{CHALLENGE_DESCRIPTION}}
+You prepare a list to send to the insurance company. As you finish, you notice you misformatted it. Given an object with at least one key/value pair, convert all the values to numbers.
 
 ## Example
 
 ```
-{{CHALLENGE_EXAMPLE}}
+convertToNumber({ piano: "200" }) ➞ { piano: 200 }
+
+convertToNumber({ piano: "200", tv: "300" }) ➞ { piano: 200, tv: 300 }
+
+convertToNumber({ piano: "200", tv: "300", stereo: "400" }) ➞ { piano: 200, tv: 300, stereo: 400 }
 ```
 
 ## Notes
 
-{{CHALLENGE_NOTES}}
+N/A
