@@ -1,8 +1,8 @@
 # Burglary Series (01): Calculate Total Losses
 
-Branch: `js/burglarySeries01`
-Challenge: `Burglary Series (01): Calculate Total Losses`
-Source: [edabit](https://edabit.com/challenge/pLNavsePxJ87t9Nak)
+Branch: `js/burglarySeries01`<br>
+Challenge: `Burglary Series (01): Calculate Total Losses`<br>
+Source: [edabit](https://edabit.com/challenge/pLNavsePxJ87t9Nak)<br>
 
 ## Description
 
