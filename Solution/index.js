@@ -1,5 +1,5 @@
 function convertToNumber(obj) {
-	
+	return Object.fromEntries(Object.entries(obj).map(value => [value[0], +value[1]]));
 }
 
 // Solution Testing
