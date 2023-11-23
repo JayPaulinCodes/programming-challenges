@@ -1,0 +1,9 @@
+npm run start
+
+> start
+> node index.js
+
+false
+false
+stereo
+mirror
