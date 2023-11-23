@@ -1,6 +1,6 @@
 # Burglary Series (02): Most Valuable Item
 
-Branch: `{{BRANCH_NAME}}`<br>
+Branch: `js/burglarySeries02`<br>
 Challenge: `Burglary Series (02): Most Valuable Item`<br>
 Source: [edabit](https://edabit.com/challenge/yMEs8bXPyZenPEYLM)<br>
 
