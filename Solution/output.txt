@@ -1,0 +1,8 @@
+npm run start
+
+> start
+> node index.js
+
+{ Brutus: 300 }
+{ piano: 500, Brutus: 400 }
+{ piano: 500, stereo: 300, Caligula: 440 }
