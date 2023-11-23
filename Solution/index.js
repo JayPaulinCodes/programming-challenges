@@ -1,5 +1,6 @@
 function findIt(obj, name) {
-	
+    const nameCapitalized = name.charAt(0).toUpperCase() + name.slice(1);
+	return obj.hasOwnProperty(name) ? `${nameCapitalized} is here!` : `${nameCapitalized} is gone...`;
 }
 
 // Solution Testing
